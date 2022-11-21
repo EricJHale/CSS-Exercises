@@ -1,4 +1,4 @@
-
+add properties to 2 photos to render differently in the .html file
 
 
 
