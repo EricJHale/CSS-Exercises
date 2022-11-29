@@ -54,3 +54,8 @@ body {
   li {
     margin-bottom: 16px;
   }
+
+  .body {
+    flex: 1;
+    display: flex;
+  }
