@@ -50,3 +50,10 @@ ul {
     gap: 20px;
 }
 
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
