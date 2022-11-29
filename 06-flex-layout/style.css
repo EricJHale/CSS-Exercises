@@ -36,6 +36,6 @@ input {
     display: flex;
     justify-content: space-between;
     padding: 20px;
-    background: grey;
+    background: rgb(196, 191, 191);
 }
 
