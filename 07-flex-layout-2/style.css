@@ -5,6 +5,12 @@ body {
     display: flex;
     flex-direction: column;
   }
+
+  .container {
+    padding: 32px;
+    display: flex;
+    flex-wrap: wrap;
+  }
   
   .header {
     height: 72px;
