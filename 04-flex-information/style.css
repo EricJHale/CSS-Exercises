@@ -24,6 +24,10 @@ body {
   body {
     text-align: center;
   }
+
+  .info {
+    max-width: 150px;
+  }
   
   /* do not edit this footer */
   .footer {
