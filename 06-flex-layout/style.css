@@ -39,3 +39,11 @@ input {
     background: rgb(196, 191, 191);
 }
 
+ul {
+    display: flex;
+    list-style: none;
+    padding: 0px;
+    margin: 0;
+    gap: 20px;
+}
+
